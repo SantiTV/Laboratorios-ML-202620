@@ -1,0 +1,57 @@
+# ==========================================================
+#  Repositorio del Laboratorio 1 - ISIS 2611
+#  Solo se versionan los archivos originales del repositorio:
+#     Lab1.ipynb  y  Datos_Lab_1.csv
+#  Todo lo demas (datos del repo del curso, salidas generadas
+#  y entregables exportados) se ignora.
+# ==========================================================
+
+# ---------- Datos traidos del repo del curso ----------
+# https://github.com/ISIS-2611-AprendizajeMaquina/MaterialDeClase-ISIS-2611
+# (202620/Laboratorios/L1/data)
+data/
+Datos_Test_Lab_1.csv
+Diccionario_de_datos.xlsx
+Laboratorio_1_Regresion.md
+
+# ---------- Salidas generadas por el notebook ----------
+Datos Test Lab 1.csv
+Lab1.html
+*.png
+*.pkl
+*.joblib
+outputs/
+resultados/
+
+# ---------- Otros datos que se agreguen despues ----------
+*.csv
+*.xlsx
+*.xls
+*.parquet
+# excepcion: este si se versiona porque ya venia en el repo
+!Datos_Lab_1.csv
+
+# ---------- Jupyter ----------
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+*-checkpoint.ipynb
+
+# ---------- Python ----------
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.env
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+
+# ---------- Editores / sistema ----------
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+.vscode/
+.idea/
