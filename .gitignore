@@ -13,10 +13,15 @@ data/
 Datos_Test_Lab_1.csv
 Diccionario_de_datos.xlsx
 Laboratorio_1_Regresion.md
+Laboratorio_2_Complejidad y búsqueda de hiperparámetros.md
+Lab1.ipynb
 
 # ---------- Salidas generadas por el notebook ----------
 Datos Test Lab 1.csv
 Lab1.html
+Lab2.html
+Guion_Video.md
+Guion_Video_Lab2.md
 *.png
 *.pkl
 *.joblib
